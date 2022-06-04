@@ -8,7 +8,7 @@ We are two people dedicated to making high quality<sup>_[citation needed]_</sup>
 
 ## Members
 
-^-^ Trevor - "Living proof you don't need to smart to code"
+^-^ Trevor - "Living proof you don't need to be smart to code"
 
 DaNub - "Touching grass is a sin and quarantine is a dream, not commenting is my thing and my code will make you scream" (yes this is intentionally cringe deal with it)
 
