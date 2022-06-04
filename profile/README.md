@@ -15,3 +15,7 @@ DaNub - "Touching grass is a sin and quarantine is a dream, not commenting is my
 ## Our Drive
 
 We make our projects out of a drive to contribute to the open source community and to provide some entertainment for the people who use them. This also serves as a motivation for us to learn, improve, gain experience on programming. 
+
+---
+
+We hope you enjoy what we have made so far!
