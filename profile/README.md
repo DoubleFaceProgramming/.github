@@ -18,4 +18,4 @@ We make our projects out of a drive to contribute to the open source community a
 
 ---
 
-We hope you enjoy what we have made so far!
+We hope you enjoy what we have made so far, and we hope to be able to continue to make things that you all will enjoy!
